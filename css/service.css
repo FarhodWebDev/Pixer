@@ -1,0 +1,44 @@
+
+
+/*--  FONT FACES  --*/
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: local() 
+  ,url('../fonts/open-sans-v34-latin_cyrillic-regular.woff'),
+  url('../fonts/open-sans-v34-latin_cyrillic-regular.woff2'),
+}
+
+@font-face {
+  font-family: 'Open Sans Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local() 
+  ,url('../fonts/open-sans-v34-latin_cyrillic-700.woff'),
+  url('../fonts/open-sans-v34-latin_cyrillic-700.woff2'),
+}
+
+
+
+
+.hero{
+  padding: 7.2rem 0;
+  background-color: #fff;
+}
+
+.hero__info{
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.hero__title{
+  font-family: 'Open Sans Bold', sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 1.3;
+}
+
+
