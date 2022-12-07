@@ -97,6 +97,25 @@ body{
 }
 
 
+.services__btn{
+  margin-right: 1.6rem;
+}
+
+.link{
+  color: #00BAFC;
+  text-decoration: underline;
+}
+
+.ink:hover{
+  opacity: 0.6;
+}
+
+.link:active{
+  opacity: 0.4;
+}
+
+
+
 /* HEADER */
 
 .header{

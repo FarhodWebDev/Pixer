@@ -122,25 +122,6 @@
 }
 
 
-.services__btn{
-  margin-right: 1.6rem;
-}
-
-.services__link{
-  color: #00BAFC;
-  text-decoration: underline;
-}
-
-.services__link:hover{
-  opacity: 0.6;
-}
-
-.services__link:active{
-  opacity: 0.4;
-}
-
-
-
 /*--  HOW WE WORK?  --*/
 
 
