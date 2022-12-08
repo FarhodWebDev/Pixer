@@ -23,18 +23,18 @@
 
 
 
-.hero{
+.service-page .hero{
   padding: 7.2rem 0;
   background-color: #fff;
 }
 
-.hero__info{
+.service-page .hero__info{
   width: 800px;
   text-align: center;
   margin: 0 auto;
 }
 
-.hero__title{
+.service-page  .hero__title{
   font-family: 'Open Sans Bold', sans-serif;
   font-weight: 700;
   font-size: 4rem;
