@@ -89,6 +89,10 @@
   margin-bottom: 1.6rem;
 }
 
+.order-services__input-goup input, .order-services__input-goup span{
+  cursor: pointer;
+}
+
 .order-service__form__btn{
   margin-right: 1.6rem;
 }
